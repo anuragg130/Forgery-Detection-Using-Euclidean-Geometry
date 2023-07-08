@@ -30,3 +30,7 @@ The result of this project is a copy-move forgery detection system that uses Euc
 
 ## Conclusion
 In conclusion, this project demonstrates how to build a copy-move forgery detection system using Euclidean geometry. This project can be a good starting point for anyone interested in detecting digital image forgeries or exploring computer vision techniques using Euclidean geometry.
+
+
+
+## STUDY BENFORDS LAW
